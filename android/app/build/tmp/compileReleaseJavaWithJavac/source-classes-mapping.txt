@@ -1,0 +1,9 @@
+com/boilerplate/MainActivity.java
+ com.boilerplate.MainActivity
+com/boilerplate/MainApplication.java
+ com.boilerplate.MainApplication
+ com.boilerplate.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/boilerplate/BuildConfig.java
+ com.boilerplate.BuildConfig
